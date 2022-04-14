@@ -1,0 +1,35 @@
+body
+{
+  color: white;
+  background: rgb(255, 0, 128);
+}
+span
+{
+  font-size: 30px;
+}
+#webcam , #result
+{
+  border: 2px dashed rgb(237, 232, 173);
+  width: 350px;
+  height: 300px; 
+}
+
+
+.gesture_name
+{
+  font-size: 40px;
+  color: black;
+}
+.gesture
+{
+  font-size:48px;
+  color: black;
+}
+
+label{
+  background-color: white;
+  font-size:14px;
+  border-radius: 5px;
+  color:blueviolet;
+  padding: 5px;
+}
